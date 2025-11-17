@@ -2,6 +2,10 @@
 Aero AI - Drone Delivery System with ETA Prediction, Drone Detection, and Multi-Agent Chatbot
 Aidrone is an end-to-end Streamlit application combining:
 
+Place your full drone and geo datasets inside the data/ folder.
+Path configuration is managed via cloud.env.
+Sample CSVs are included for demonstration.
+
 ✔ 1. Drone Delivery ETA Prediction
 
 Predict delivery time using a trained machine-learning model.
