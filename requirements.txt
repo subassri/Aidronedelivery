@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+folium
+streamlit-folium
+tensorflow
+scikit-learn
+joblib

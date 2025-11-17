@@ -1,0 +1,200 @@
+order_id,drone_id,drone_type,drone_speed_kmph,payload_weight_kg,distance_km,battery_efficiency,climate_condition,wind_speed_kmph,temperature_c,humidity_percent,source_area,destination_area,traffic_condition,ETA_actual_min
+ORD000001,DRN092,Hybrid VTOL,38.9,3.3,4.7,70.1,Cloudy,8.2,29.4,62,Nungambakkam,Vadapalani,High,19.4
+ORD000002,DRN081,Single-Rotor,55.7,5.8,2.9,89.1,Cloudy,5.4,28.9,74.3,Tambaram,Guindy,Low,5.8
+ORD000003,DRN061,Multi-Rotor,26.7,9.7,4.9,71,Cloudy,5.6,34.5,54.6,Vadapalani,Velachery,Medium,17.1
+ORD000004,DRN035,Single-Rotor,49.4,6.9,1.5,80.6,Windy,17.7,35.2,49.7,OMR,Mylapore,Low,5
+ORD000005,DRN061,Multi-Rotor,26.3,9.3,4.2,78.5,Cloudy,18.7,37.2,59.6,Adyar,Nungambakkam,Medium,21.1
+ORD000006,DRN042,Single-Rotor,37.7,1.8,4.8,92.2,Clear,21.9,24.9,51.3,Vadapalani,Velachery,High,17.3
+ORD000007,DRN077,Hybrid VTOL,21.4,2.1,3.3,72.3,Windy,23.6,34.9,73.2,Nungambakkam,Vadapalani,High,21.7
+ORD000008,DRN012,Multi-Rotor,24.2,3.1,4.9,91.7,Clear,11.9,34.4,53.1,Vadapalani,T Nagar,Medium,18.7
+ORD000009,DRN034,Fixed-Wing,27.4,5.7,1.5,98.3,Clear,14.5,33.4,48.9,Guindy,Anna Nagar,Medium,7.9
+ORD000010,DRN086,Hybrid VTOL,26.4,7.4,1,70.3,Cloudy,9,27.2,72.7,T Nagar,Velachery,High,11.5
+ORD000011,,Multi-Rotor,30.9,,4.6,95,,12.7,27.2,50.3,Anna Nagar,Velachery,Low,12.6
+ORD000012,DRN091,Single-Rotor,49.1,3.3,,77.8,Clear,14.3,29.6,60.6,OMR,Guindy,Low,
+ORD000013,DRN035,Fixed-Wing,26.4,9.1,2.8,84.9,Cloudy,9.2,25.3,43.5,Vadapalani,Nungambakkam,High,17.5
+ORD000014,DRN016,Single-Rotor,54.7,5.3,1,91.9,Clear,3.6,27.1,50.7,OMR,Tambaram,Medium,9.4
+ORD000015,DRN010,Multi-Rotor,28.3,6.1,2.5,71.2,Windy,3.9,25.6,54.6,T Nagar,Anna Nagar,Medium,12
+ORD000016,DRN003,Fixed-Wing,51.4,5.6,4.6,80.4,Clear,13.9,32,58.7,Mylapore,Chromepet,Low,5
+ORD000017,,Fixed-Wing,29.1,8,1.1,78.5,Clear,13.2,25.5,53.5,Guindy,Nungambakkam,Low,5
+ORD000018,DRN072,Fixed-Wing,24.5,3.3,1.8,93.5,Clear,10.8,35.7,78.9,Nungambakkam,Anna Nagar,Low,5
+ORD000019,DRN062,Hybrid VTOL,35.1,7.4,2,74.2,Clear,20.9,36.2,76.1,Vadapalani,Nungambakkam,Medium,13.9
+ORD000020,DRN051,Multi-Rotor,29.5,5.5,49.7,93.5,Clear,2.5,36.7,45.5,T Nagar,Chromepet,High,116.9
+ORD000021,DRN096,Single-Rotor,21,7.5,3.5,83,Clear,14.9,33.6,48.8,OMR,Velachery,Medium,16.1
+ORD000022,DRN019,Single-Rotor,-32,65.7,2.3,79.9,Cloudy,-5.9,34.5,64,Velachery,Mylapore,Low,0.9
+ORD000023,DRN011,Fixed-Wing,29.8,8.2,2.9,72.3,Windy,8.4,25.8,50.5,OMR,Mylapore,High,18.5
+ORD000024,DRN095,multi_rotor,27.2,3.4,3.8,74.2,Windy,17.8,25.6,75.2,Guindy,Anna Nagar,High,22.5
+ORD000025,DRN090,Fixed-Wing,37.7,4.1,1.7,91.9,Cloudy,12.9,29.2,79.8,Anna Nagar,Guindy,High,8.7
+ORD000026,DRN088,Single-Rotor,33.8,7.4,1.7,81.6,Clear,12.8,33.3,53.3,Adyar,Chromepet,Medium,8.6
+ORD000027,DRN004,Fixed-Wing,54.8,6.7,2.2,76,Clear,23.6,29.2,48.5,Mylapore,Adyar,Low,5.1
+ORD000028,DRN086,UNKNOWN,22.5,4.9,1.2,92.3,Clear,22.8,28.4,48.8,Nungambakkam,OMR,Low,6.4
+ORD000029,DRN026,Hybrid VTOL,37.2,2.7,4.7,72.7,Cloudy,11.5,29.5,59.7,Porur,Velachery,Medium,15.8
+ORD000030,DRN015,Single-Rotor,45.6,3.2,1.5,99.6,Windy,16.3,32.2,80,T Nagar,Tambaram,High,14.2
+ORD000031,DRN099,Multi-Rotor,20,2.7,4.1,79.4,Clear,5.7,24.4,57.7,T Nagar,Chromepet,Low,13.3
+ORD000032,DRN010,Fixed-Wing,50,5.8,4.4,73.4,Clear,7.7,24.6,46.9,T Nagar,Mylapore,High,17.7
+ORD000033,DRN018,Multi-Rotor,24.2,4.8,1.7,83.9,Clear,9.6,27.8,56.6,Adyar,Velachery,Medium,7.5
+ORD000034,DRN046,Multi-Rotor,37.7,9.3,1.4,72.9,Clear,22.6,34.6,40.7,Nungambakkam,OMR,Medium,9.2
+ORD000035,DRN071,Single-Rotor,24.5,1.5,2.1,92.5,Clear,6.2,32.4,77.4,T Nagar,Mylapore,Low,5
+ORD000036,DRN091,Single-Rotor,42.5,,4.8,74.2,Clear,13.3,26.5,80,Adyar,Velachery,High,19.3
+ORD000037,DRN079,Hybrid VTOL,50.2,3.6,4.5,99.9,Clear,4.3,35,78.5,T Nagar,Tambaram,High,12.7
+ORD000038,DRN051,Multi-Rotor,40.9,2.5,4.2,70.2,Windy,23.5,25.8,68.6,OMR,Porur,Medium,13
+ORD000039,DRN019,Hybrid VTOL,40,8.9,1.5,79.4,Clear,14.2,26.9,59.9,N/A,Unknown,High,13.1
+ORD000040,DRN006,Multi-Rotor,54,4.9,2.8,94.6,Clear,24,26.2,72.3,Velachery,OMR,Medium,8
+ORD000041,DRN098,Multi-Rotor,55.7,6.5,1.9,72.2,Cloudy,10.6,26,76.5,OMR,Chromepet,Low,5.2
+ORD000042,DRN066,Multi-Rotor,54.5,3.6,1.7,78,Cloudy,16,36.9,63,Velachery,Anna Nagar,Medium,5
+ORD000043,DRN094,Single-Rotor,28.7,9.2,,81.4,Cloudy,24.5,30.3,42.5,Adyar,Chromepet,High,
+ORD000044,DRN073,Fixed-Wing,49.8,5.6,2.3,89.5,Cloudy,12.3,37.9,41,Adyar,Porur,Low,5
+ORD000045,DRN015,Multi-Rotor,37.6,2.7,1.1,89.4,Cloudy,6.9,33.4,60.5,Porur,Anna Nagar,Low,5
+ORD000046,DRN084,Single-Rotor,55.8,,2.1,74.4,N/A,20.8,26.6,63.9,Mylapore,Tambaram,Low,5
+ORD000047,DRN097,Multi-Rotor,35.2,9.9,4.6,71.1,Clear,9.1,25.5,64.9,Chromepet,Adyar,High,19.9
+ORD000048,DRN071,Fixed-Wing,46.1,5.1,1.7,97.4,Cloudy,7.1,37.7,65.5,T Nagar,Vadapalani,Low,5
+ORD000049,DRN068,Single-Rotor,54.6,6.5,2,78.9,Cloudy,9.4,28.9,53,Tambaram,Adyar,Medium,9.6
+ORD000050,DRN010,Fixed-Wing,46.8,5.1,2.6,73.3,Clear,9.3,36.1,70.7,Chromepet,Porur,High,13.7
+ORD000051,DRN067,Single-Rotor,47.9,6,3.1,72.9,Clear,2.6,29.9,71.3,Mylapore,Guindy,Low,5
+ORD000052,DRN024,Multi-Rotor,47.1,6.7,1.2,81.1,Cloudy,20.4,25.1,55.4,Guindy,Vadapalani,Low,5
+ORD000053,DRN034,Fixed-Wing,23.9,9.8,1.1,81,Clear,15.8,38,65,Vadapalani,Tambaram,High,15.4
+ORD000054,DRN100,Multi-Rotor,34.2,3.4,4.1,75.1,Cloudy,11.9,28.6,41.8,Mylapore,Vadapalani,Medium,12.8
+ORD000055,DRN008,Fixed-Wing,42.9,3.3,2.4,85,Windy,14.7,32.1,43,Mylapore,Nungambakkam,High,11.9
+ORD000056,DRN089,Hybrid VTOL,60,4.9,1.8,81.4,Windy,10.5,28,59.3,Guindy,T Nagar,Medium,8
+ORD000057,DRN060,Fixed-Wing,56.8,1.7,3.5,91.9,Cloudy,0.8,33.5,52.5,Velachery,Tambaram,Low,5.6
+ORD000058,DRN052,Fixed-Wing,53.9,4.2,3.2,93.1,Cloudy,19,32.9,63.8,T Nagar,Velachery,High,16.8
+ORD000059,DRN060,Multi-Rotor,45.6,3.8,3.9,92.1,Cloudy,0.4,36.8,48.5,Mylapore,Adyar,High,15.1
+ORD000060,DRN018,Hybrid VTOL,31.7,184,1.1,84.4,Cloudy,5.8,31.1,56.3,Adyar,Mylapore,Low,5
+ORD000061,DRN084,Single-Rotor,38.7,6.1,2.2,77.4,Cloudy,10.6,24.3,55.8,Vadapalani,Mylapore,High,13
+ORD000062,DRN070,Single-Rotor,36.5,2.7,2.1,90.6,Windy,19.4,26.9,58.3,Tambaram,Adyar,High,14.7
+ORD000063,DRN073,Fixed-Wing,38.6,6.2,4.6,74.9,Windy,17.2,24,72,Porur,Tambaram,Low,12.3
+ORD000064,DRN095,Hybrid VTOL,31.8,9.9,1.5,84.2,Clear,16.4,32.8,59.6,Velachery,Guindy,Medium,7
+ORD000065,DRN011,Fixed-Wing,49.3,1.2,2.8,84.1,Clear,5,34.5,55.5,Porur,Velachery,Low,5
+ORD000066,DRN014,Hybrid VTOL,37.2,9.9,4.5,84.4,Clear,10.6,33,46.6,Nungambakkam,Porur,Medium,12.9
+ORD000067,DRN051,Single-Rotor,24.8,8.1,1,80.2,Windy,18.6,35.6,79.7,Porur,Nungambakkam,Medium,7.4
+ORD000068,DRN078,Single-Rotor,43.1,2.3,,97.5,Hot,1.7,29,60.8,Nungambakkam,Anna Nagar,Medium,
+ORD000069,DRN079,Hybrid VTOL,22.3,1.9,3.6,99.6,Rainy,14.3,25.6,54,Anna Nagar,OMR,heavy,9.8
+ORD000070,DRN097,Multi-Rotor,33.7,7.7,3.4,80.3,Windy,15.4,25.7,56.3,Porur,Anna Nagar,High,14.8
+ORD000071,DRN013,Single-Rotor,28.4,7.7,2.6,82.8,Cloudy,10.8,24.4,75.4,Chromepet,Velachery,Medium,12.9
+ORD000072,DRN085,Single-Rotor,36.7,7.5,4.2,73.4,Windy,5.7,28.6,77,Porur,Anna Nagar,Low,10.2
+ORD000073,DRN014,Hybrid VTOL,37.5,8.5,1.7,82.5,Windy,9,31.1,60.6,Guindy,Adyar,Medium,13.3
+ORD000074,DRN028,Single-Rotor,37.5,9,3.7,74.7,Windy,23.3,33.3,56.9,Tambaram,Vadapalani,High,18.3
+ORD000075,DRN074,Hybrid VTOL,29.4,7.5,1.5,75.1,Windy,3.8,25.6,41.8,OMR,Mylapore,High,12.4
+ORD000076,DRN081,Fixed-Wing,25.8,9.8,3.3,83.5,Clear,15.4,27.3,75.9,Tambaram,Porur,Medium,18.4
+ORD000077,DRN037,Hybrid VTOL,53.7,3,2.9,79.2,Hot,14.8,36,68.5,Tambaram,Mylapore,Medium,12.4
+ORD000078,DRN063,Multi-Rotor,24.2,7.3,1.4,80.1,Clear,21.7,28.2,70.2,Vadapalani,Velachery,Low,5
+ORD000079,DRN093,Multi-Rotor,31.5,6.3,3.3,86.6,Cloudy,18.6,36.3,66.4,Vadapalani,Guindy,Medium,13.7
+ORD000080,DRN063,Fixed-Wing,25.7,7.9,4.9,84.2,Clear,14.7,24.8,43.4,Tambaram,T Nagar,Low,15
+ORD000081,DRN073,Fixed-Wing,58.2,5.1,2.3,99,Clear,2.9,26.4,71.2,Nungambakkam,Chromepet,High,15.1
+ORD000082,DRN017,Fixed-Wing,49.2,3.9,1.4,84.5,Cloudy,22.1,26.9,70.7,Vadapalani,Porur,Low,5
+ORD000083,DRN088,Multi-Rotor,47.6,5.1,1.1,87.3,Windy,8.6,25.1,52.5,Nungambakkam,Tambaram,Low,5
+ORD000084,DRN060,Single-Rotor,53.1,2.5,1.8,76.9,Windy,15.1,31.2,50.5,Vadapalani,Adyar,High,15.2
+ORD000085,DRN074,Fixed-Wing,38,1.3,3.3,84.4,Cloudy,20.4,34.5,70.6,Adyar,Tambaram,Low,6.8
+ORD000086,DRN067,Single-Rotor,35.3,7.7,3.5,79.8,Clear,17.8,35.4,57.8,Porur,Chromepet,Medium,11.8
+ORD000087,DRN068,Multi-Rotor,49.2,3.3,4,99.7,Windy,23.2,30,77.4,Mylapore,Anna Nagar,High,16.8
+ORD000088,DRN075,Hybrid VTOL,54.7,0,4.1,80.3,Clear,12.5,35.3,74,Tambaram,Nungambakkam,Medium,9.9
+ORD000089,DRN026,Hybrid VTOL,23,191,2.9,,Windy,7.4,31.9,79,Adyar,Anna Nagar,High,-14.5
+ORD000090,DRN038,Hybrid VTOL,21.6,7.4,2.6,84,Clear,18.2,28.6,47.9,Guindy,T Nagar,Medium,13.8
+ORD000091,DRN084,Multi-Rotor,50.8,,4,97.8,Clear,22.8,30.2,65.8,Chennai,Chennai,Low,5.7
+ORD000092,DRN087,Fixed-Wing,30,7.2,3.9,79.6,Windy,15.7,37.5,48.5,Mylapore,Tambaram,Medium,12.8
+ORD000093,DRN053,Fixed-Wing,23.4,8.5,1.4,82.5,Windy,17.8,35.1,64.3,Porur,Nungambakkam,Low,7
+ORD000094,DRN046,multi_rotor,43.3,4,2.4,78.1,N/A,0.7,34.5,64.2,T Nagar,Chromepet,Medium,9.1
+ORD000095,DRN044,Single-Rotor,21.7,8,3.6,71.4,Windy,13.7,37.3,40,Chromepet,Porur,Low,15
+ORD000096,DRN028,Single-Rotor,28.1,-0.8,1.6,108.8,Cloudy,15.3,30.5,54.2,Vadapalani,Velachery,High,
+ORD000097,DRN049,Multi-Rotor,39.4,9.7,2.5,76.3,Windy,5.9,33.7,50.4,Nungambakkam,Guindy,Low,6.5
+ORD000098,DRN029,Hybrid VTOL,28.9,9,4,73.8,Cloudy,0.4,26,46.4,Tambaram,OMR,Low,9.1
+ORD000099,DRN002,Hybrid VTOL,32.1,5.1,0.06,92.6,Windy,1.8,26.4,52.5,Adyar,Adyar,Medium,5.2
+ORD000100,DRN035,Single-Rotor,46.3,5.2,3.7,88,Clear,6,34.1,59.7,T Nagar,Anna Nagar,Low,5.1
+ORD000101,DRN045,Single-Rotor,20.6,7.3,2.4,73.4,Windy,19.6,27.7,52.1,OMR,Nungambakkam,Low,10.4
+ORD000102,DRN005,Hybrid VTOL,42.7,5.9,5,87.4,Windy,12.8,30.9,57,Adyar,Mylapore,Low,8.2
+ORD000103,DRN046,Single-Rotor,53.1,3.3,2.7,96.9,Windy,5,28.6,60.4,T Nagar,Nungambakkam,High,10.3
+ORD000104,DRN086,Fixed-Wing,22.1,9.6,1.7,73.3,Cloudy,20.9,24.5,75.7,OMR,Adyar,Low,7.9
+ORD000105,DRN002,Fixed-Wing,57.9,3,4.9,93.5,Windy,1.6,27.5,51.8,Mylapore,Vadapalani,High,13.6
+ORD000106,DRN027,Fixed-Wing,36.7,4.5,3.1,72.2,Clear,20.2,35.7,77.5,Porur,Guindy,Low,6.5
+ORD000107,DRN062,Multi-Rotor,40.6,2.5,4.5,88.3,Cloudy,19.4,32.5,67.4,Adyar,Guindy,Medium,16.2
+ORD000108,DRN087,Hybrid VTOL,42,4.4,1.6,94.7,Clear,14.3,28.1,50.4,T Nagar,Mylapore,Low,5
+ORD000109,DRN007,Fixed-Wing,40,1.1,4.4,98.7,Windy,0.2,24.6,42.7,Guindy,Mylapore,Medium,10.2
+ORD000110,DRN039,Fixed-Wing,26.1,6.9,3.8,92.6,Windy,20.6,28.4,79.1,Chromepet,OMR,High,22.2
+ORD000111,DRN044,Multi-Rotor,48.6,4.6,2.2,71.2,Cloudy,9.5,25.9,56.9,Nungambakkam,Porur,Low,5
+ORD000112,DRN050,Multi-Rotor,49,6.6,4.4,84.5,Cloudy,1.5,35.5,54.4,OMR,Mylapore,Medium,11.6
+ORD000113,DRN095,Multi-Rotor,27.6,4.7,4.1,74.8,Cloudy,2,24.1,77.4,Guindy,Mylapore,Low,9.9
+ORD000114,DRN083,Hybrid VTOL,57.1,6.8,3.6,77.4,Clear,3,35.1,56.3,Adyar,Chromepet,Low,5.5
+ORD000115,DRN078,Fixed-Wing,32.5,1.1,1.4,80.2,Windy,6.8,35.4,46.4,T Nagar,Adyar,High,12.2
+ORD000116,DRN098,Single-Rotor,33.2,7.7,1.2,77.6,Windy,22.8,36.8,53.7,Mylapore,Velachery,Low,5.7
+ORD000117,DRN030,Fixed-Wing,32.9,6.9,4.3,70.6,Windy,22.3,33.2,64.7,Adyar,Mylapore,High,19.7
+ORD000118,DRN100,Single-Rotor,30.4,1.3,2.9,98,Clear,20.3,31.1,42.8,OMR,Vadapalani,Low,7.6
+ORD000119,DRN014,Hybrid VTOL,38.5,9.1,1.7,79.4,Cloudy,4.4,36.1,68.1,Anna Nagar,Nungambakkam,High,15.4
+ORD000120,DRN080,Single-Rotor,44.1,5,3,78.5,Cloudy,18.2,36.6,67.9,Tambaram,Mylapore,Medium,8.9
+ORD000121,DRN066,Hybrid VTOL,50.9,2.4,2.9,72,,6.9,35.4,71,Porur,Vadapalani,Low,5
+ORD000122,DRN026,Multi-Rotor,37.9,3.4,2.7,73.6,Windy,25,35.9,74,Velachery,Chromepet,Medium,9.3
+ORD000123,DRN077,Single-Rotor,33.3,5.5,1.3,86.6,Clear,5.6,29.3,45.4,Mylapore,Chromepet,High,10.2
+ORD000124,DRN076,Hybrid VTOL,28.7,9.5,2.9,81.4,Windy,7.1,36.4,48.6,Nungambakkam,Mylapore,Low,7.2
+ORD000125,DRN011,Multi-Rotor,33,6.6,3.8,90.3,Cloudy,18.1,31.6,66.3,Vadapalani,Adyar,High,16.5
+ORD000126,DRN086,Fixed-Wing,26.1,1.3,3.9,80.2,Cloudy,7.5,30.8,46.1,T Nagar,Adyar,Medium,17.9
+ORD000127,DRN089,Hybrid VTOL,42.8,5.5,3.8,71.1,Cloudy,0.3,37.1,70.4,T Nagar,Nungambakkam,Low,8.3
+ORD000128,DRN051,Hybrid VTOL,23.6,7.2,2.5,74.5,Cloudy,21.9,35,41.5,Anna Nagar,Guindy,Low,12.1
+ORD000129,DRN078,Fixed-Wing,24.5,9.4,4.7,74.3,Cloudy,14.6,34.3,69.7,Nungambakkam,Adyar,Low,18
+ORD000130,DRN038,Fixed-Wing,37.2,4.1,,84.5,N/A,16.6,34,63.2,Mylapore,Adyar,Low,
+ORD000131,DRN073,Multi-Rotor,24.2,6,2.2,83.7,Clear,14.9,37.7,62.9,Chromepet,Nungambakkam,Low,8.7
+ORD000132,DRN042,Fixed-Wing,24.8,5.5,1.6,82.1,Cloudy,16.6,26.2,75.7,Chromepet,Adyar,Medium,11.1
+ORD000133,DRN071,Fixed-Wing,47.7,1.9,4.4,83.5,Windy,2.7,29,78.9,Porur,Tambaram,Low,5
+ORD000134,DRN040,Single-Rotor,21.3,4.5,2.1,95.8,Cloudy,13.7,36.8,77.1,Porur,OMR,High,16.8
+ORD000135,DRN049,Hybrid VTOL,47.8,6.8,4.3,82.4,Cloudy,14.1,37.8,76.3,Vadapalani,Guindy,High,18.4
+ORD000136,DRN087,Single-Rotor,31.3,3.2,1.1,76.1,Cloudy,9,30,54.5,Tambaram,T Nagar,Medium,11
+ORD000137,DRN030,Multi-Rotor,20.9,6.5,1.9,86.3,Windy,18.2,36.3,42.9,Nungambakkam,Chromepet,Low,10.8
+ORD000138,DRN075,Multi-Rotor,53.2,,2.5,76.1,Rainy,17.8,36.1,40.3,N/A,Unknown,Normal,5.7
+ORD000139,DRN091,Fixed-Wing,26.5,5.3,3.4,73.3,Clear,16.7,29.1,73.8,Mylapore,T Nagar,Low,12.7
+ORD000140,DRN086,Hybrid VTOL,22.1,9.2,1,74.4,Clear,1.6,27.5,74.3,Tambaram,Vadapalani,Medium,7.4
+ORD000141,DRN058,Single-Rotor,44.7,2.3,1.9,99.8,Cloudy,11,30,70,Porur,Velachery,High,12.9
+ORD000142,DRN100,Fixed-Wing,,198.4,1.6,76.3,Cloudy,5.5,30.8,44.3,OMR,Adyar,Low,-4.4
+ORD000143,,Multi-Rotor,32.6,7.9,1.7,74.7,Windy,17,25.7,55.9,,Chennai,MEDIUM,7.9
+ORD000144,DRN055,Single-Rotor,24.1,2.8,2.8,80.5,Clear,14.2,30.7,67.3,Velachery,Adyar,High,15.8
+ORD000145,DRN026,Multi-Rotor,38.2,5.2,3.8,96.9,Cloudy,23.9,31.6,40.6,Tambaram,OMR,Medium,9.9
+ORD000146,DRN017,Fixed-Wing,30.5,6.7,2,90.6,Windy,19.7,31.6,72.9,Anna Nagar,Adyar,Medium,15
+ORD000147,DRN073,Multi-Rotor,32.9,8.4,2.8,75.9,Cloudy,1.4,35.4,57.9,Vadapalani,Guindy,Low,7.2
+ORD000148,DRN037,Fixed-Wing,21.2,8.1,3.1,80.9,Windy,18.6,27.5,44.2,Adyar,OMR,Low,13.8
+ORD000149,DRN074,Single-Rotor,23.8,7.6,2,71.5,Clear,11.8,31.2,48.4,T Nagar,Anna Nagar,High,17.1
+ORD000150,DRN045,Fixed-Wing,49.1,4.8,2.1,82.2,Cloudy,21.6,33.2,58.5,Vadapalani,Tambaram,Medium,11.3
+ORD000151,DRN052,Single-Rotor,21.5,3.1,2.9,78,Cloudy,13.8,26,56.5,Anna Nagar,Vadapalani,Low,10.5
+ORD000152,DRN099,Single-Rotor,20.9,9,1.5,77.3,Windy,13.1,29,68.5,Tambaram,OMR,Low,8.6
+ORD000153,DRN032,Fixed-Wing,28.3,8.5,4.9,84.1,Windy,14.2,38,66.6,OMR,Nungambakkam,Medium,18.1
+ORD000154,DRN093,Multi-Rotor,44.6,5.9,2.6,92.7,Windy,8.6,33,75,Anna Nagar,Tambaram,High,12.5
+ORD000155,DRN018,Single-Rotor,32.1,7.6,,75.8,Cloudy,17.6,25.5,67.7,,N/A,Medium,
+ORD000156,DRN047,Multi-Rotor,50.3,5.5,1.2,80.2,Clear,15.3,29.9,78.9,Vadapalani,Tambaram,Low,5
+ORD000157,DRN073,Single-Rotor,39,2.7,,74,Windy,14.6,24.4,71.1,,Unknown,low,
+ORD000158,DRN021,Fixed-Wing,49.9,6.7,2.8,89.5,Clear,13.7,31.5,54.8,Adyar,Nungambakkam,Low,5
+ORD000159,DRN027,Hybrid VTOL,37,2.2,3,89.9,Clear,0.2,37.6,51.9,Guindy,Velachery,High,15.8
+ORD000160,DRN041,Single-Rotor,25.8,9.8,2.9,75.2,Clear,13,36.6,47.5,T Nagar,Guindy,Medium,14
+ORD000161,DRN017,Single-Rotor,30.7,6,3.4,71.8,Clear,23.5,34.1,69.3,Mylapore,Velachery,High,17.9
+ORD000162,DRN026,Fixed-Wing,56.4,5.1,4.8,90.1,Windy,3,35,44.8,T Nagar,Adyar,Medium,10
+ORD000163,DRN080,Single-Rotor,31.7,3.6,3.1,71.2,Clear,1.1,30.7,50.7,Porur,OMR,High,12.7
+ORD000164,DRN043,Multi-Rotor,45.6,3.2,,77.8,N/A,1.4,31.2,57,Tambaram,T Nagar,Low,
+ORD000165,DRN066,Multi-Rotor,35.8,6.8,3.9,71.3,Clear,13.8,32,62.9,Nungambakkam,Chromepet,High,17.2
+ORD000166,DRN030,Fixed-Wing,57.2,0.06,2.3,98.6,Cloudy,22.5,28.7,55.5,Velachery,Velachery,Low,-12.8
+ORD000167,DRN012,Single-Rotor,36.4,7.2,,77.9,Hot,1.2,30.5,70.1,,,Medium,
+ORD000168,DRN063,Hybrid VTOL,23.1,9.9,4.6,71.5,Windy,22.8,26.2,54,T Nagar,Mylapore,Medium,26.2
+ORD000169,DRN074,Multi-Rotor,49,1.5,1.7,88,Windy,0.7,33.4,56.8,Velachery,Tambaram,Medium,8.6
+ORD000170,DRN068,Fixed-Wing,39.5,8.1,3.9,73.8,Clear,1.6,31.9,40.8,Nungambakkam,Mylapore,Medium,10.8
+ORD000171,DRN090,Hybrid VTOL,46.9,6.7,1.4,71.7,Cloudy,2.6,33.1,78.7,Mylapore,Porur,Medium,5.9
+ORD000172,DRN070,Hybrid VTOL,32,4.5,3.2,94.8,Clear,2.6,31.9,60.2,Porur,Vadapalani,High,15.9
+ORD000173,DRN013,Multi-Rotor,41.6,3.2,3.5,87.1,Windy,13.1,25.3,64.4,Adyar,Vadapalani,Low,8.3
+ORD000174,DRN064,Fixed-Wing,56.1,3.4,3.5,94.3,Clear,20.4,30.8,40.6,Anna Nagar,Vadapalani,High,14.5
+ORD000175,DRN003,Multi-Rotor,40,5.6,4.4,78.6,Windy,2.7,34.6,79.7,TN,Chennai,Medium,11.4
+ORD000176,DRN004,Multi-Rotor,32.5,2.1,1.1,72.9,Windy,23.5,36,76.3,T Nagar,Adyar,High,11.7
+ORD000177,DRN078,Hybrid VTOL,38,8.9,4.1,84.4,Clear,15.9,31.3,67.8,Nungambakkam,Velachery,Medium,16.8
+ORD000178,DRN029,Fixed-Wing,29.4,5,2.6,92.7,Clear,21.7,24.1,52.7,Tambaram,Adyar,Low,8.6
+ORD000179,DRN045,Fixed-Wing,29.6,8.7,2.9,71.9,Cloudy,4.3,34,69.5,Mylapore,Vadapalani,Low,10.7
+ORD000180,DRN079,Fixed-Wing,49.1,4.1,2.2,92.9,Clear,2.3,35.5,79,T Nagar,Porur,High,14.9
+ORD000181,DRN036,Hybrid VTOL,55.4,2.4,3.3,73.9,Clear,9.6,30.2,55.9,T Nagar,Adyar,Medium,7.5
+ORD000182,DRN030,Hybrid VTOL,38.1,7.5,2,76.1,Clear,7.6,26.8,42.3,Porur,Tambaram,Low,5
+ORD000183,DRN096,Single-Rotor,25.6,2.9,3.9,89.3,Clear,18.6,26,76.4,Adyar,Tambaram,Low,12.5
+ORD000184,DRN098,Hybrid VTOL,34.7,9.2,1.5,72.8,Windy,8.6,34.3,47.4,Nungambakkam,Adyar,Low,5
+ORD000185,DRN061,Multi-Rotor,29.8,9.5,4.1,84,Clear,5.1,27.9,68.1,Anna Nagar,Tambaram,Medium,16.6
+ORD000186,DRN053,Multi-Rotor,42.9,5.5,4.7,75.2,Clear,3.2,33.3,43,Porur,Adyar,N/A,6.8
+ORD000187,DRN003,Multi-Rotor,36.1,2.4,1.1,86.4,Cloudy,13.3,37.5,50,OMR,Anna Nagar,High,13.1
+ORD000188,DRN084,Hybrid VTOL,51.2,2.6,4.2,85.3,Clear,19.4,27.6,76.6,Anna Nagar,Velachery,High,16.3
+ORD000189,DRN028,Multi-Rotor,28.9,8,2.3,83,Clear,11.9,28.9,78.3,Vadapalani,Nungambakkam,Medium,13
+ORD000190,DRN073,Fixed-Wing,53.1,2.3,1.2,88.1,Clear,13.3,34.7,56.9,Anna Nagar,Vadapalani,High,7.5
+ORD000191,DRN028,Multi-Rotor,49.7,3.2,2.2,92.7,Clear,16.4,37,68.3,Nungambakkam,Anna Nagar,High,13.8
+ORD000192,DRN099,Hybrid VTOL,36,9.5,4.9,77,Clear,15,27.5,40,Anna Nagar,Mylapore,Medium,13.1
+ORD000193,DRN029,Multi-Rotor,49.7,5.9,2.1,95,Cloudy,7.9,28.7,55.8,OMR,Porur,Low,5
+ORD000194,DRN053,Hybrid VTOL,25,127.4,1.3,108.2,Cloudy,25,29.7,292.7,Chromepet,Tambaram,Medium,9.2
+ORD000195,DRN027,Single-Rotor,39.1,6.8,4.2,92.2,Cloudy,1.6,35.9,61.9,Porur,Adyar,Medium,13.3
+ORD000196,DRN080,Hybrid VTOL,34.4,8.9,3.2,84.3,Clear,5.8,32.5,66.3,Nungambakkam,Adyar,Low,7.2
+ORD000197,DRN052,Multi-Rotor,38.5,7.1,4.2,81.9,Cloudy,10.1,25.7,60.9,Nungambakkam,Tambaram,High,15.8
+ORD000198,DRN063,,32.4,1.7,1.7,86.7,,17.7,25.2,50,Tambaram,Vadapalani,High,11.7
+ORD000199,DRN057,Single-Rotor,24.3,5.8,3.9,93.1,Cloudy,4.9,24.2,43.2,Vadapalani,Chromepet,High,18.8
